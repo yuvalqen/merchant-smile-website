@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yuvalqen.github.io
-title: Yuval Qen - Conversion Optimization Expert
-subtitle: Conversion Optimization Expert
+url: http://www.merchantsmile.com
+title: Merchant Smile Ltd.
+subtitle: We are here to make you smile
 author: Yuval Qen
 simple_search: http://google.com/search
 description:
@@ -19,8 +19,8 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email: hi@yuvalqen.com
-phone: +972-52-331-3878
+email: hello@merchantsmile.com
+phone:
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -95,10 +95,10 @@ disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id: UA-46047047-1
+google_analytics_tracking_id: UA-65165936-1
 
 # Facebook Like
 facebook_like: false
 
 # Gravatar
-gravatar_hash: f214aab113eac2a924ae7b8053827cc6
+gravatar_hash: 
