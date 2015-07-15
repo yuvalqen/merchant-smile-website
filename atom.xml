@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Merchant Smile Ltd.]]></title>
-  <link href="http://www.merchantsmile.com/atom.xml" rel="self"/>
-  <link href="http://www.merchantsmile.com/"/>
-  <updated>2015-07-15T19:10:55+03:00</updated>
-  <id>http://www.merchantsmile.com/</id>
+  <link href="http://yuvalqen.com//github/atom.xml" rel="self"/>
+  <link href="http://yuvalqen.com//github/"/>
+  <updated>2015-07-15T19:31:14+03:00</updated>
+  <id>http://yuvalqen.com//github/</id>
   <author>
     <name><![CDATA[Yuval Qen]]></name>
     <email><![CDATA[hello@merchantsmile.com]]></email>
